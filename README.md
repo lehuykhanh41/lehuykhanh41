@@ -1,7 +1,7 @@
 # 💫 Hello, I'm Huy Khanh Le and welcome to my GitHub
-🎓 I have graduated with a BSc in Computer Science from the University of Manitoba. 
+🎓 I graduated with a BSc in Computer Science from the University of Manitoba. 
 <br>🖥️ I'm developing applications in MERN (and PERN in the future) stack.
-<br>✍️ Currently studying Python and ML frameworks, I'm focusing on deepening my knowledge and experience in AI.
+<br>✍️ Currently studying .NET Core and Vue frameworks, I'm focusing on deepening my knowledge and experience web app & application development.
 
 # 🌐 Socials:
 
