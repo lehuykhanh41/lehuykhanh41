@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Huy Khanh Le and welcome to my GitHub
+# 💫 HUY KHANH LE - SOFTWARE DEVELOPER AT PVI HOLDINGS
 🎓 I graduated with a BSc in Computer Science from the University of Manitoba. 
 <br>🖥️ I'm developing applications in MERN (and PERN in the future) stack.
 <br>✍️ Currently studying .NET Core and Vue frameworks, I'm focusing on deepening my knowledge and experience web app & application development.
